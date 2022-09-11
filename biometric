@@ -1,0 +1,12 @@
+HTTP 200 OK
+Allow: GET, HEAD, OPTIONS
+Content-Type: application/json
+Vary: Accept
+
+{
+    "api_api_docs": "http://172.16.100.10:8080/api/docs/",
+    "personnel_api_root": "http://172.16.100.10:8080/personnel/api/",
+    "personnel_api_docs": "http://172.16.100.10:8080/api/personnel_docs/",
+    "iclock_api_root": "http://172.16.100.10:8080/iclock/api/",
+    "iclock_api_docs": "http://172.16.100.10:8080/api/iclock_docs/"
+}
